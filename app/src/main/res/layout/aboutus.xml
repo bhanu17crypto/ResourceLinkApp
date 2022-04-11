@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <Button
+        android:id="@+id/ola"
+        android:layout_width="78dp"
+        android:layout_height="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="530dp"
+        android:layout_marginEnd="13dp"
+        android:layout_marginRight="13dp"
+        app:backgroundTint="#B64C7B"
+        app:icon="@drawable/instagram1" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="289dp"
+        android:layout_height="236dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="54dp"
+        android:layout_marginLeft="54dp"
+        android:layout_marginTop="98dp"
+        android:text="i am deeply thankful and blessed... for the the special unique amazing people in my life who support me uplift me comfort me sometimes i forget to tell them how much i really do appreciate them for being an important part of my life so thaannkkks  to all my teachers parents  bhaiya didi and frieenndddss" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="208dp"
+        app:backgroundTint="#C85151" />
+
+</RelativeLayout>
